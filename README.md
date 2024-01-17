@@ -27,7 +27,7 @@ Here's a walkthrough of implemented features:
 
 <div style="position: relative; padding-bottom: 50.31250000000001%; height: 0;"><iframe src="https://www.loom.com/embed/02b39f5e38134b1bb721d25d2980adbf?sid=ed786eb4-9f61-49f6-8c58-073853da7f93" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
-style="position: relative; padding-bottom: 50.31250000000001%; height: 0;"><iframe src="https://www.loom.com/embed/02b39f5e38134b1bb721d25d2980adbf?sid=ed786eb4-9f61-49f6-8c58-073853da7f93" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
+
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
